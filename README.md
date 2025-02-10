@@ -74,9 +74,10 @@ Using a multimeter on Continuity ( V with a solid line ) mode: <br/>
 Continuity exists between:
 * White and Black
 * White and Green
-<br/>
+
 Continuity is not between:
 * Black and Green
+* Black and Yellow
 
 Shorting the White and Black wire using an insulated solid core wire resulted in the door opening leading to the following assumptions: <br/>
 White was COM  <br/>
