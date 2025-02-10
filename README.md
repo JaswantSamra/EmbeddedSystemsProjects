@@ -2,8 +2,8 @@
  General Repository of my Embedded Systems adventures
 
 ## Garage Opener
-Motivation: Currently working retail with mainly late night shifts and I wanted a way to open my garage door without having to wake up parents every singly time.
-Project Goal: Be able to open my garage door without a dedicated remote. 
+Motivation: Currently working retail with mainly late night shifts and I wanted a way to open my garage door without having to wake up parents every singly time. <br/>
+Project Goal: Be able to open my garage door without a dedicated remote.
 
 ### Project Resources:
 1 x Adafruit QT Py ESP32-S3 (4MB Flash, 512KB SRAM, 2MB PSRAM) - This was definitely a much higher spec than what was needed. <br/>
