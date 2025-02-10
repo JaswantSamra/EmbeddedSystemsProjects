@@ -73,7 +73,8 @@ Using a multimeter on Continuity ( V with a solid line ) mode: <br/>
 
 Continuity exists between:
 * White and Black
-* White and Green <br/>
+* White and Green
+<br/>
 Continuity is not between:
 * Black and Green
 
