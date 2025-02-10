@@ -44,15 +44,16 @@ Text Diagram:
 
 ESP32 S3 <br/>
 Used Pins: <br/>
-5V  ------------------------   <br/>
-GND ------------------     |   <br/>
-A0 -------------     |     |   <br/>
-               |     |     |   <br/>
-5V Relay       |     |     |   <br/>
-IN_0 -----------     |     |   <br/>
-GND ------------------     |   <br/>
-VCC ------------------------   <br/>
-
+```
+5V  ------------------------   
+GND ------------------     |   
+A0 -------------     |     |   
+               |     |     |   
+5V Relay       |     |     |   
+IN_0 -----------     |     |   
+GND ------------------     |   
+VCC ------------------------   
+```
 5V Relay to Garage Door Button <br/>
 
 IN_0 has: <br/>
@@ -72,9 +73,9 @@ Using a multimeter on Continuity ( V with a solid line ) mode: <br/>
 
 Continuity exists between:
 * White and Black
-* White and Green
+* White and Green <br/>
 Continuity is not between:
-*Black and Green
+* Black and Green
 
 Shorting the White and Black wire using an insulated solid core wire resulted in the door opening leading to the following assumptions: <br/>
 White was COM  <br/>
